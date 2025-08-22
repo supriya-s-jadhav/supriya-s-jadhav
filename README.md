@@ -1,5 +1,5 @@
 <!-- Simple Bio and Stats -->
-### Hi there, I am Supriya Jadhav👋
+### Hi there, I am Supriya !!
 
 - I am a Data Scientist with expertise in Machine Learning and AWS Cloud Computing. <br>
 - Currently expanding my skills in Deep Learning and AI.<br>
