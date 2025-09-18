@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=supriya-s-jadhav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=supriya-s-jadhav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-s-jadhav&card_width=500&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-s-jadhav&card_width=500&&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=supriya-s-jadhav&icon=0&color=0)](https://visitcount.itsvg.in)
