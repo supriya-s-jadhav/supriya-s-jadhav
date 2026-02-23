@@ -1,8 +1,9 @@
 <!-- Simple Bio and Stats -->
 ### Hi there, I am Supriya !!
 
-- I am a Data Scientist with expertise in Machine Learning and AWS Cloud Computing to build production ready, scalable, data-driven solutions across
-diverse domains. <br>
+- I am an AI/ML Engineer with expertise in building the end-to-end production ready model and deploying it to the Cloud platforms (AWS/Azure). <br>
+- My recent work experience in healthcare industry includes building AI agents using LLMs, RAG architectures, and agent orchestration frameworks such as LangGraph and CrewAI 
+to enable autonomous decision-making and enterprise workflow automation. <br>
 - Previously collaborated with USGS, 3M, Mayo Clinic, and IBM, where I led and supported efforts in data analysis, cloud data ingestion and migration pipelines, statistical modeling, machine learning development, image analysis, and computer vision solutions.<br>
 - Currently expanding my skills in Deep Learning and AI to build projects using PyTorch, Tensorflow, multi-AI agents, RAG etc.<br>
 - Studied MS Data Science batch of 2018 from SDSU, SD, USA. Worked as Research assistant while pursuing MS and worked 6+ years in industry.<br>
