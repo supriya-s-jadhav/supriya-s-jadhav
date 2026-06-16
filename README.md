@@ -10,7 +10,7 @@ to enable autonomous decision-making and enterprise workflow automation. <br>
 - Ask me about Machine Learning and Artificial Intelligence, Algorithms and Design, Automation and pipelines.<br>
 ⚡ Fun fact: Off the clock, I’m either on the badminton/throwball court or scheming over a chessboard.
 
-## ✉️ Feel free to reach mw out to me: supriyasampat21@gmail.com
+### ✉️ Feel free to reach out to me: supriyasampat21@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supriya-jadhav-236a90b5) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Supriyasampat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sjadhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supriyasampat21@gmail.com) 
